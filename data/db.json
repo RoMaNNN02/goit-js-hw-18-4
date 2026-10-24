@@ -1,4 +1,21 @@
 {
-  "students": [],
+  "students": [
+    {
+      "id": "T4ZgWuo364U",
+      "name": "awerg",
+      "age": "12345",
+      "course": "qwgh",
+      "skills": "qasweg",
+      "email": "roma.pro.khodosov@gmail.com"
+    },
+    {
+      "id": "nHWR11tti0Q",
+      "name": "Roman Khodosov",
+      "age": "22",
+      "course": "1",
+      "skills": "2222",
+      "email": "roma.pro.khodosov@gmail.com"
+    }
+  ],
   "$schema": "./node_modules/json-server/schema.json"
 }

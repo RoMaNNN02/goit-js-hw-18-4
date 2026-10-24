@@ -18,8 +18,15 @@
   },
   "homepage": "https://github.com/RoMaNNN02/goit-js-hw-18-4#readme",
   "dependencies": {
+    "handlebars": "^4.7.10",
     "json-server": "^1.0.0-beta.15",
-    "parcel": "^2.16.4",
     "server": "^1.0.42"
+  },
+  "devDependencies": {
+    "@parcel/transformer-inline-string": "^2.16.4",
+    "assert": "^2.1.0",
+    "parcel": "^2.16.4",
+    "path-browserify": "^1.0.1",
+    "process": "^0.11.10"
   }
 }
